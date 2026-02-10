@@ -32,8 +32,16 @@
     ],
     "extra": {
       "eas": {
-        "projectId": ""
-      }
+        "projectId": "bc189d9b-4f4f-403a-90dc-256ba92e24b5"
+      },
+      "router": {}
+    },
+    "owner": "shubham987654",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/bc189d9b-4f4f-403a-90dc-256ba92e24b5"
     }
   }
 }
